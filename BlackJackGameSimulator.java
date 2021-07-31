@@ -1,7 +1,6 @@
 /* 
  * Dengcheng Ji
- * EN.605.201.83.SP20 Intro to Programming Using Java
- * Mini Project 2
+ * Black Jack Card Game Simulator
  */
 
 import java.util.Scanner;
